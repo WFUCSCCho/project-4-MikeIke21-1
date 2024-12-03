@@ -124,3 +124,17 @@ Reversed: 285
 Sorted: 103388
 Shuffled: 106842
 Reversed: 444
+==========RUNTIMES==========
+NODES: 512
+-----INSERTS-----
+Sorted: 2753130
+Shuffled: 676588
+Reversed: 1199758
+-----SEARCHES-----
+Sorted: 16773
+Shuffled: 1079
+Reversed: 471
+-----DELETIONS-----
+Sorted: 169661
+Shuffled: 192153
+Reversed: 728

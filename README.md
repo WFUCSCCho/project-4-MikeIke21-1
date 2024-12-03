@@ -3,7 +3,7 @@
 ## Pledged Work Policy
 
 
-MY GRAPHS:
+MY GRAPHS: Also in SRC folder
 1) Sorted [Screenshot 2024-12-03 at 9.44.11 AM.png](../../../../var/folders/rz/qg0wq225197dd9yjpkfbm3_h0000gn/T/TemporaryItems/NSIRD_screencaptureui_9MlLyK/Screenshot%202024-12-03%20at%209.44.11%20AM.png)
 2) Shuffled![Screenshot 2024-12-03 at 9.45.04 AM.png](../../../../var/folders/rz/qg0wq225197dd9yjpkfbm3_h0000gn/T/TemporaryItems/NSIRD_screencaptureui_NxXcDo/Screenshot%202024-12-03%20at%209.45.04%20AM.png)
 3) Reversed![Screenshot 2024-12-03 at 9.45.15 AM.png](../../../../var/folders/rz/qg0wq225197dd9yjpkfbm3_h0000gn/T/TemporaryItems/NSIRD_screencaptureui_qpLaBW/Screenshot%202024-12-03%20at%209.45.15%20AM.png)
