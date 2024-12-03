@@ -2,7 +2,7 @@
 @file: proj4.java
 @description: This is the main class of my code, it takes in the input of my file reading however many lines I enter into the arg line
 It creates an arraylist of my objects in my player class, I then turn that list into a sorted, shuffled and reversed version of this array list
-I run these arraylist through insertions, adding every item to the table, then searching for an item in the table then deleting all the data from it
+I run these arraylist through insertions, adding every item to the table, then searching for all items in the table then deleting all the data from it
 I collect the runtimes of these processes and compile them in file 'analysis.txt'
 @date: September 26, 2024
  */
@@ -135,15 +135,22 @@ public class Proj4 {
         ///* search functions timing
         long searchSortStart = System.nanoTime();
         //search for the last item in the last
+        for (int i = 0; i < sortedArrList.size()-1; i++) {
+            sortedHash.contains(sortedArrList.get(i));
+        }
         sortedHash.contains(sortedArrList.get(sortedArrList.size() - 1));
         long searchSortEnd = System.nanoTime();
 
         long searchRandStart = System.nanoTime();
-        randHash.contains(randArrList.get(randArrList.size() - 1));
+        for (int i = 0; i < randArrList.size()-1; i++) {
+            randHash.contains(randArrList.get(i));
+        }
         long searchRandEnd= System.nanoTime();
 
         long searchRevStart = System.nanoTime();
-        revHash.contains(revArrList.get(revArrList.size() - 1));
+        for (int i = 0; i < revArrList.size()-1; i++) {
+            revHash.contains(revArrList.get(i));
+        }
         long searchRevEnd = System.nanoTime();
 
         long searchSortTime = searchSortEnd-searchSortStart;
