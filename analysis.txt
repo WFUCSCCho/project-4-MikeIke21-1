@@ -1,0 +1,266 @@
+==========RUNTIMES==========
+NODES: 2
+-----INSERTS-----
+Sorted: 3467
+Shuffled: 273
+Reversed: 257
+-----SEARCHES-----
+Sorted: 13745
+Shuffled: 1599
+Reversed: 934
+-----DELETIONS-----
+Sorted: 257
+Shuffled: 147
+Reversed: 2092
+==========RUNTIMES==========
+NODES: 4
+-----INSERTS-----
+Sorted: 72911
+Shuffled: 2066
+Reversed: 1218
+-----SEARCHES-----
+Sorted: 1750
+Shuffled: 463
+Reversed: 355
+-----DELETIONS-----
+Sorted: 7529
+Shuffled: 1208
+Reversed: 383
+==========RUNTIMES==========
+NODES: 8
+-----INSERTS-----
+Sorted: 99796
+Shuffled: 7591
+Reversed: 2902
+-----SEARCHES-----
+Sorted: 2778
+Shuffled: 592
+Reversed: 396
+-----DELETIONS-----
+Sorted: 12868
+Shuffled: 3195
+Reversed: 501
+==========RUNTIMES==========
+NODES: 16
+-----INSERTS-----
+Sorted: 106779
+Shuffled: 6947
+Reversed: 11579
+-----SEARCHES-----
+Sorted: 3477
+Shuffled: 645
+Reversed: 449
+-----DELETIONS-----
+Sorted: 19462
+Shuffled: 6768
+Reversed: 607
+==========RUNTIMES==========
+NODES: 32
+-----INSERTS-----
+Sorted: 104761
+Shuffled: 30010
+Reversed: 12800
+-----SEARCHES-----
+Sorted: 3393
+Shuffled: 648
+Reversed: 472
+-----DELETIONS-----
+Sorted: 25496
+Shuffled: 13767
+Reversed: 647
+==========RUNTIMES==========
+NODES: 64
+-----INSERTS-----
+Sorted: 122584
+Shuffled: 24721
+Reversed: 18475
+-----SEARCHES-----
+Sorted: 2974
+Shuffled: 470
+Reversed: 1254
+-----DELETIONS-----
+Sorted: 33917
+Shuffled: 21038
+Reversed: 513
+==========RUNTIMES==========
+NODES: 128
+-----INSERTS-----
+Sorted: 97018
+Shuffled: 34533
+Reversed: 33252
+-----SEARCHES-----
+Sorted: 1845
+Shuffled: 321
+Reversed: 327
+-----DELETIONS-----
+Sorted: 33242
+Shuffled: 27560
+Reversed: 456
+==========RUNTIMES==========
+NODES: 256
+-----INSERTS-----
+Sorted: 568779
+Shuffled: 344979
+Reversed: 311429
+-----SEARCHES-----
+Sorted: 4659
+Shuffled: 715
+Reversed: 602
+-----DELETIONS-----
+Sorted: 111716
+Shuffled: 107067
+Reversed: 1037
+==========RUNTIMES==========
+NODES: 512
+-----INSERTS-----
+Sorted: 944146
+Shuffled: 470467
+Reversed: 434666
+-----SEARCHES-----
+Sorted: 2852
+Shuffled: 474
+Reversed: 285
+-----DELETIONS-----
+Sorted: 103388
+Shuffled: 106842
+Reversed: 444
+==========RUNTIMES==========
+NODES: 512
+-----INSERTS-----
+Sorted: 2753130
+Shuffled: 676588
+Reversed: 1199758
+-----SEARCHES-----
+Sorted: 16773
+Shuffled: 1079
+Reversed: 471
+-----DELETIONS-----
+Sorted: 169661
+Shuffled: 192153
+Reversed: 728
+==========RUNTIMES==========
+NODES: 2
+-----INSERTS-----
+Sorted: 2419
+Shuffled: 178
+Reversed: 152
+-----SEARCHES-----
+Sorted: 9128
+Shuffled: 246
+Reversed: 93
+-----DELETIONS-----
+Sorted: 91
+Shuffled: 86
+Reversed: 1718
+==========RUNTIMES==========
+NODES: 4
+-----INSERTS-----
+Sorted: 92900
+Shuffled: 2444
+Reversed: 1425
+-----SEARCHES-----
+Sorted: 6572
+Shuffled: 1024
+Reversed: 996
+-----DELETIONS-----
+Sorted: 8650
+Shuffled: 1513
+Reversed: 515
+==========RUNTIMES==========
+NODES: 8
+-----INSERTS-----
+Sorted: 96579
+Shuffled: 3576
+Reversed: 3401
+-----SEARCHES-----
+Sorted: 7975
+Shuffled: 2333
+Reversed: 2200
+-----DELETIONS-----
+Sorted: 11102
+Shuffled: 3052
+Reversed: 604
+==========RUNTIMES==========
+NODES: 16
+-----INSERTS-----
+Sorted: 100594
+Shuffled: 10737
+Reversed: 7529
+-----SEARCHES-----
+Sorted: 13724
+Shuffled: 4539
+Reversed: 4397
+-----DELETIONS-----
+Sorted: 15722
+Shuffled: 7076
+Reversed: 730
+==========RUNTIMES==========
+NODES: 32
+-----INSERTS-----
+Sorted: 80881
+Shuffled: 15381
+Reversed: 11642
+-----SEARCHES-----
+Sorted: 15569
+Shuffled: 8763
+Reversed: 8380
+-----DELETIONS-----
+Sorted: 22406
+Shuffled: 16732
+Reversed: 737
+==========RUNTIMES==========
+NODES: 64
+-----INSERTS-----
+Sorted: 162893
+Shuffled: 26028
+Reversed: 20052
+-----SEARCHES-----
+Sorted: 22831
+Shuffled: 12400
+Reversed: 14464
+-----DELETIONS-----
+Sorted: 31110
+Shuffled: 18955
+Reversed: 573
+==========RUNTIMES==========
+NODES: 128
+-----INSERTS-----
+Sorted: 153615
+Shuffled: 52174
+Reversed: 53391
+-----SEARCHES-----
+Sorted: 34587
+Shuffled: 30635
+Reversed: 50286
+-----DELETIONS-----
+Sorted: 53410
+Shuffled: 55602
+Reversed: 952
+==========RUNTIMES==========
+NODES: 256
+-----INSERTS-----
+Sorted: 1391815
+Shuffled: 313339
+Reversed: 513876
+-----SEARCHES-----
+Sorted: 67677
+Shuffled: 67157
+Reversed: 65626
+-----DELETIONS-----
+Sorted: 116877
+Shuffled: 95408
+Reversed: 1040
+==========RUNTIMES==========
+NODES: 512
+-----INSERTS-----
+Sorted: 1065260
+Shuffled: 511483
+Reversed: 399916
+-----SEARCHES-----
+Sorted: 60514
+Shuffled: 57055
+Reversed: 50750
+-----DELETIONS-----
+Sorted: 95097
+Shuffled: 97057
+Reversed: 375
