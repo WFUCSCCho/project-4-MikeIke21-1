@@ -1,4 +1,11 @@
-import com.sun.source.tree.AnyPatternTree;
+/*
+@file: proj4.java
+@description: This is the main class of my code, it takes in the input of my file reading however many lines I enter into the arg line
+It creates an arraylist of my objects in my player class, I then turn that list into a sorted, shuffled and reversed version of this array list
+I run these arraylist through insertions, adding every item to the table, then searching for an item in the table then deleting all the data from it
+I collect the runtimes of these processes and compile them in file 'analysis.txt'
+@date: September 26, 2024
+ */
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
